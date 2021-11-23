@@ -1,4 +1,4 @@
-# 🫀 Proyecto Backend Fundamentals
+# � Proyecto Backend Fundamentals
 
 Este proyecto sirve para la evaluación del módulo M4 del curso BACKEND-WEB-DEVELOPER 2021.
 
