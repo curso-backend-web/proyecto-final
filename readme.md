@@ -1,4 +1,4 @@
-# � Proyecto Backend Fundamentals
+# Proyecto Backend Fundamentals
 
 Este proyecto sirve para la evaluación del módulo M4 del curso BACKEND-WEB-DEVELOPER 2021.
 
@@ -105,9 +105,6 @@ EL código estára estructurado en dos carpetas: **`api`** y **`client`**, con e
 ## ✅ Rúbrica de evaluación
 
 Para la evaluación del proyecto se usará la siguiente rúbrica:
-
-![](img/rubrica.jpg)
-
 
 ||1|2|3|
 |---|---|---|---|
