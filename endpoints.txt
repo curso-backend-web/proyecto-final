@@ -1,0 +1,52 @@
+EndPoints Authorization
+
+WHITHOUT AUTHORIZATION
+
+POST localhost:3000/api/eshop/auth/login
+Login of user
+
+POST localhost:3000/api/eshop/user/register
+Register of user
+
+
+
+AUTHORIZATION USER = cliente & admin
+
+GET localhost:3000/api/eshop/product/all
+Show all products
+
+GET localhost:3000/api/eshop/product/{name}
+Show one product by name
+
+GET localhost:3000/api/eshop/product
+Show list max of products by name
+
+
+
+
+AUTHORIZATION USER = admin
+
+
+POST localhost:3000/api/eshop/product/registerproduct
+Register of product
+
+DELETE localhost:3000/api/eshop/product/{id}
+Delete product by productId
+
+PATCH localhost:3000/api/eshop/product/{id}
+Update attributes of product
+
+GET localhost:3000/api/eshop/user
+Show list max of role user
+
+GET localhost:3000/api/eshop/user/{name}
+Show one user by name
+
+GET localhost:3000/api/eshop/user/all
+Show all users
+
+DELETE localhost:3000/api/eshop/user/{id}
+Delete user by userId
+
+PATCH localhost:3000/api/eshop/user/{id}
+Update attributes of user
